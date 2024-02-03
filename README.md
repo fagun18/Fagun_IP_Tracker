@@ -34,6 +34,9 @@ The IP Information Tracker is a Python script designed to provide detailed infor
 ## Video Tutorial
 [![Watch the tutorial video](https://img.youtube.com/vi/3t9pZfpePOE/0.jpg)](https://www.youtube.com/watch?v=3t9pZfpePOE&ab_channel=An0nAli)
 
+## Documentation
+For more in-depth information, examples, and advanced usage, please refer to our [documentation](https://github.com/fagun18/Fagun_IP_Tracker/wiki).
+
 
 ## Script Structure
 The script is structured as follows:
