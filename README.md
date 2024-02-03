@@ -33,7 +33,8 @@ The IP Information Tracker is a Python script designed to provide detailed infor
 
 ## Video Tutorial
 
-[Watch the tutorial video](https://youtu.be/lH_hZS6zDjM)
+[![Watch the tutorial video](https://img.youtube.com/vi/lH_hZS6zDjM/0.jpg)](https://youtu.be/lH_hZS6zDjM)
+
 
 
 
