@@ -62,4 +62,4 @@ Users can customize the script by modifying the code to suit their specific need
 If you encounter any issues or have suggestions for improvement, feel free to contribute by submitting pull requests or reporting issues on the script's GitHub repository.
 
 ## License
-This script is open-source and is distributed under the MIT License.
+This script is open-source and is distributed under the [MIT License](https://github.com/fagun18/Fagun_IP_Tracker/blob/main/LICENSE).
