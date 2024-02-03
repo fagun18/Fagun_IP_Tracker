@@ -22,7 +22,6 @@ The IP Information Tracker is a Python script designed to provide detailed infor
 3. Ensure that you have Python 3 installed on your system.
 
 
-
 ## Usage
 - Run the script in a Python environment:
     ```bash
@@ -31,6 +30,10 @@ The IP Information Tracker is a Python script designed to provide detailed infor
 - The script will automatically fetch information about your own IP address using the ip-api.com service.
 - Enter the target IP address when prompted.
 - The script will fetch and display detailed information about the specified IP.
+
+## Video Tutorial
+[![Watch the tutorial video](https://img.youtube.com/vi/3t9pZfpePOE/0.jpg)](https://www.youtube.com/watch?v=3t9pZfpePOE&ab_channel=An0nAli)
+
 
 ## Script Structure
 The script is structured as follows:
