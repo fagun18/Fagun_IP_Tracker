@@ -13,10 +13,15 @@ The IP Information Tracker is a Python script designed to provide detailed infor
 - Internet connection
 
 ## Installation
-1. Download the script from the provided source.
-2. Ensure that you have Python 3 installed on your system.
-3. Open a terminal or command prompt.
-4. Navigate to the directory where the script is located.
+1. Clone the repository using the following command:
+    ```bash
+    git clone https://github.com/fagun18/Fagun_IP_Tracker.git
+    ```
+2. Navigate to the directory where the script is located.
+
+3. Ensure that you have Python 3 installed on your system.
+
+
 
 ## Usage
 - Run the script in a Python environment:
